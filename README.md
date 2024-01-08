@@ -1,7 +1,9 @@
 # UAS-Project
 
 berikut kode program project UAS
-```
+
+
+```python
 # List opsi pilihan makanan/minuman
 menu = {
     "Nasi Goreng": 10000,
