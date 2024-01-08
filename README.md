@@ -1,7 +1,8 @@
 # UAS-Project
 
 ## Link Video Pengerjaan
-sedang diupload pa wifinya ngelag
+1. https://www.youtube.com/watch?v=7Qo91PHOV4o
+2. Sedang Proses Upload (menampilkan presenternya)
 
 ## berikut kode program project UAS
 
