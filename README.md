@@ -1,7 +1,7 @@
 # UAS-Project
 
 ## Link Video Pengerjaan
-
+sedang diupload pa wifinya ngelag
 
 ## berikut kode program project UAS
 
