@@ -2,7 +2,7 @@
 
 ## Link Video Pengerjaan
 1. https://www.youtube.com/watch?v=7Qo91PHOV4o
-2. Sedang Proses Upload (menampilkan presenternya)
+2. https://youtu.be/4dwASL7B54g (menampilkan presenternya)
 
 ## berikut kode program project UAS
 
