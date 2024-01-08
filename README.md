@@ -63,3 +63,6 @@ print("--------------------------------")
 # Terima kasih
 print("Terima kasih telah berbelanja di Kantin Kami!")
 ```
+
+## Demo Program
+![](HasilDemoProgram/1)
